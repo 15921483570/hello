@@ -6,3 +6,9 @@ dev branch edit
 dev only
 
 git push --set-upstream origin master
+
+# 生成新 SSH 密钥并添加到 ssh-agent
+https://docs.github.com/cn/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+ssh通道(更快): git@github.com:15921483570/hello.git
+https://github.com/15921483570/hello.git

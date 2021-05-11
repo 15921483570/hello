@@ -4,3 +4,5 @@ bbb
 dev branch edit
 
 dev only
+
+git push --set-upstream origin master
